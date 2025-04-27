@@ -27,7 +27,7 @@ NuGet package coming soon!
 For now, you can clone the repository and add the project reference manually:
 
 ```bash
-git clone https://github.com/SeuUsuario/SharpFormat.git
+git clone https://github.com/ruigiovanes/SharpFormat.git
 ```
 
 ---
